@@ -1,4 +1,4 @@
-baseURL = "zainbaq.netlify.com"
+baseURL = "https://zainbaq.netlify.com"
 languageCode = "en-us"
 title = "Zain Baquar"
 theme = "minimal"
