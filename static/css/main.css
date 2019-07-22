@@ -24,6 +24,13 @@ main {
 
 /*home page*/
 
+.avatar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 .intro {
     transform: translateY(22vh);
 }

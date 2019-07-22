@@ -4,6 +4,7 @@ title = "Zain Baquar"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+publishDir = "dist"
 
 [params]
     author = "Calin Tataru"
@@ -16,6 +17,7 @@ googleAnalytics = ""
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+    avatarurl = "images/me.jpeg"
 
 [[menu.main]]
     url = "/"
