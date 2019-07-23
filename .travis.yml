@@ -22,6 +22,6 @@ script:
   - shopt -s globstar
   # check writing
   - proselint README.md
-  - mdl **/*.md
+  - mdl *.md content/*.md content/**/*.md
   # build
   - hugo
