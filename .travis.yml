@@ -10,9 +10,8 @@ before_install:
   - gem install mdl
   - pip install proselint
   - npm install -g sass
-  - npm install -g stylelint
   # install hugo
-  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION_Linux-64bit.tar.gz
+  - wget https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
   - tar xf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz hugo
   # probably don't need this but just to be sure
   - rm -rf hugo_0.55.6_Linux-64bit.tar.gz
