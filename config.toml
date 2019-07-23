@@ -48,17 +48,22 @@ publishDir = "dist"
     name = "github"
     weight = 2
 
-[[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
-    weight = 3
+#[[menu.icon]]
+#    url = "https://twitter.com/username/"
+#    name = "twitter"
+#    weight = 3
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/zainbaq/"
     name = "linkedin"
     weight = 4
 
+#[[menu.icon]]
+#    url = "https://www.stackoverflow.com/username/"
+#    name = "stack-overflow"
+#    weight = 5
+
 [[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
+    url = "https://open.spotify.com/artist/1DSXyKW2jqrh5pGSIljaK6"
+    name = "spotify"
     weight = 5
