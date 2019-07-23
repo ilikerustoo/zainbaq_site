@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Computation on Zain Baquar</title>
+    <link>https://zainbaq.netlify.com/tags/neural-computation/</link>
+    <description>Recent content in Neural Computation on Zain Baquar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zainbaq.netlify.com/tags/neural-computation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Decision-Making in a Social Multi-Armed Bandit Task: Behavior, Electrophysiology and Pupillometry</title>
+      <link>https://zainbaq.netlify.com/post/paper1/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zainbaq.netlify.com/post/paper1/</guid>
+      <description>Abstract Understanding, predicting, and learning from other people&amp;rsquo;s actions are fundamental human social-cognitive skills. Little is known about how and when we consider other&amp;rsquo;s actions and outcomes when making our own decisions. We developed a novel task to study social influence in decision-making: the social multi-armed bandit task. This task assesses how people learn policies for optimal choices based on their own outcomes and another player&amp;rsquo;s (observed) outcomes. The majority of participants integrated information gained through observation of their partner similarly as information gained through their own actions.</description>
+    </item>
+    
+  </channel>
+</rss>
