@@ -56,5 +56,14 @@
       <description>Abstract Understanding, predicting, and learning from other people&amp;rsquo;s actions are fundamental human social-cognitive skills. Little is known about how and when we consider other&amp;rsquo;s actions and outcomes when making our own decisions. We developed a novel task to study social influence in decision-making: the social multi-armed bandit task. This task assesses how people learn policies for optimal choices based on their own outcomes and another player&amp;rsquo;s (observed) outcomes. The majority of participants integrated information gained through observation of their partner similarly as information gained through their own actions.</description>
     </item>
     
+    <item>
+      <title>Resume</title>
+      <link>https://zainbaq.netlify.com/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zainbaq.netlify.com/resume/</guid>
+      <description>[params] [Attachments] attachements title = &amp;ldquo;resume&amp;rdquo; pattern = &amp;ldquo;.*pdf&amp;rdquo; attachments style = &amp;ldquo;orange&amp;rdquo;</description>
+    </item>
+    
   </channel>
 </rss>
